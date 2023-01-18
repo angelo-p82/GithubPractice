@@ -3,3 +3,4 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine("adsskjnmfdslfnsdlfnsdlfnsdlkfn");
 Console.WriteLine("Press ENTER key");
+Console.ReadKey();
