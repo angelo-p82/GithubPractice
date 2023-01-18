@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Press ENTER key");
+Console.ReadKey();
