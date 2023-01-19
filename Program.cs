@@ -1,6 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
+// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-Console.WriteLine("test");
-Console.WriteLine("test");
-Console.WriteLine("Press ENTER key");
+Console.ForegroundColor = ConsoleColor.Yellow;
+Console.WriteLine("This is the second message.");
+Console.WriteLine("Press any key to continue... Bye");
+Console.ReadLine();
