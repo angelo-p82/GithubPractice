@@ -3,6 +3,7 @@ Console.WriteLine("Hello, World!");
 
 Console.ForegroundColor = ConsoleColor.Yellow;
 Console.WriteLine("This is the second message.");
+// test diff
 Console.WriteLine("Press any key to continue... Bye");
 Console.ReadLine();
 
