@@ -6,7 +6,3 @@ Console.WriteLine("This is the second message.");
 Console.WriteLine("Press any key to continue... Bye");
 Console.ReadLine();
 
-// master modified externally
-// master commit 4
-// rebase commit 1
-// rebase commit 2
