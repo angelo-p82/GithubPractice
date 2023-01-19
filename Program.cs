@@ -6,6 +6,4 @@ Console.WriteLine("This is the second message.");
 Console.WriteLine("Press any key to continue... Bye");
 Console.ReadLine();
 
-// test merge
-// commmit 1
-// commit 2
+// rebase test
